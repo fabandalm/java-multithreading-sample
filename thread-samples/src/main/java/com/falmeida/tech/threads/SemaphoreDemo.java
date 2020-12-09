@@ -1,5 +1,7 @@
 package com.falmeida.tech.threads;
 
+import java.util.concurrent.Semaphore;
+
 public class SemaphoreDemo {
 
     public static void main(String args[]) throws InterruptedException
